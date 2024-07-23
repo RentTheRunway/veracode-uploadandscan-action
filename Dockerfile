@@ -1,5 +1,5 @@
 # Container image that runs your code
-FROM openjdk:latest
+FROM artifactory.rtr.cloud/docker/openjdk:latest
     
 #RUN yum install curl
 
